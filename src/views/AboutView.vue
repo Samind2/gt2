@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h1>Software Engineering</h1>
+    <h1>github action</h1>
   </div>
 </template>
 
